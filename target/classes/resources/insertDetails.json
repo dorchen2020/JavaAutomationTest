@@ -1,0 +1,10 @@
+{
+		"name": "Tal2",
+		"email": "test2@gmail.com",
+		"company": "Elbit",
+		"title": "QA Tester",
+		"country": "Israel",
+		"inquiryTypeOption": "Other",
+		"message": "this is a test of insert details."
+}
+
