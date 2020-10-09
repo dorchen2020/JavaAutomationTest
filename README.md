@@ -1,7 +1,5 @@
-Maven project using Java, TestNG and Selenium, Automated UI Tests script + API Tests.
+Test automation Maven project in Java language using TestNG and Selenium framework, 
 
-In this project I demonstrate some of my knowledge and abilities in automation. 
+Automated UI Tests script + API Tests with HttpClient.
 
-All tests can be run from testng.xml
-
-SUT: 90min site - https://www.90min.com
+SUT: www.90min.com
